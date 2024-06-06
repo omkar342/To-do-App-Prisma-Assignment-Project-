@@ -6,6 +6,7 @@ git clone https://github.com/omkar342/To-do-App-Prisma-Assignment-Project-
 # After cloning the project, you can run the following command to install the dependencies:
 ```
 npm install
+npx prisma generate
 ```
 
 # To run the project, you can run the following command:
